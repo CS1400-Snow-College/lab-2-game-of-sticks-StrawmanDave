@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/bin/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/bin/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/bin/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/bin/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/bin/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/refint/lab-2-game-of-sticks-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/lab-2-game-of-sticks-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-2-game-of-sticks-StrawmanDave/obj/Debug/net8.0/ref/lab-2-game-of-sticks-StrawmanDave.dll
